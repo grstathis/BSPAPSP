@@ -1,0 +1,493 @@
+
+--------------------
+ size of matrix  5
+-------------------
+ 
+ Sequential calculation of APSP took: 0.000014 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000018 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000041 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000061 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000019 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000041 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000060 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000018 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000042 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000061 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000017 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000042 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000062 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000018 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000039 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000059 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000019 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000041 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000061 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 0.000019 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.000080 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.000063 seconds 
+
+ 
+--------------------
+ size of matrix  32
+-------------------
+ 
+ Sequential calculation of APSP took: 0.004933 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005416 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.005942 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008790 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005252 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.005733 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008755 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005246 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.005865 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008667 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005404 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.005716 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008706 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005223 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.006062 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008842 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005257 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.006137 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008705 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 0.005180 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.006075 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.008725 seconds 
+
+ 
+--------------------
+ size of matrix  100
+-------------------
+ 
+ Sequential calculation of APSP took: 0.208818 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 0.213361 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.211917 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.271328 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 0.223262 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.210024 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.270816 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 0.210505 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.209193 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.270048 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 0.218924 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.219976 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.274480 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 0.242761 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.227912 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.269645 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 0.217337 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.228473 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.283676 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 0.217157 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 0.210523 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 0.269326 seconds 
+
+ 
+--------------------
+ size of matrix  200
+-------------------
+ 
+ Sequential calculation of APSP took: 3.032831 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 1.999805 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 2.386506 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 2.195919 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 2.001032 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 2.002517 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 2.195139 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 3.704918 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 4.031453 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 2.199760 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 1.979028 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 2.823034 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 2.197100 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 1.968827 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 1.970065 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 3.857512 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 1.931629 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 3.458302 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 3.302319 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 3.954286 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 1.987417 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 4.459173 seconds 
+
+ 
+--------------------
+ size of matrix  400
+-------------------
+ 
+ Sequential calculation of APSP took: 25.940417 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 36.788310 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 22.820845 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 38.991172 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 25.026282 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 25.201230 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 24.494966 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 36.508716 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 34.976071 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 23.253561 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 30.204997 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 21.351241 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 22.879448 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 24.813995 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 32.940842 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 29.755501 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 22.447915 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 25.757276 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 23.057153 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 26.993352 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 27.501810 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 32.948855 seconds 
+
+ 
+--------------------
+ size of matrix  500
+-------------------
+ 
+ Sequential calculation of APSP took: 53.608359 seconds 
+
+ num of procs 1
+************
+ 
+ Block Row Distr calculation of APSP took: 57.221230 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 59.095091 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 73.985518 seconds 
+
+ 
+
+ num of procs 2
+************
+ 
+ Block Row Distr calculation of APSP took: 79.928055 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 49.538424 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 69.440805 seconds 
+
+ 
+
+ num of procs 4
+************
+ 
+ Block Row Distr calculation of APSP took: 53.765113 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 50.351607 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 72.283621 seconds 
+
+ 
+
+ num of procs 8
+************
+ 
+ Block Row Distr calculation of APSP took: 67.973619 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 49.028578 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 72.345036 seconds 
+
+ 
+
+ num of procs 16
+************
+ 
+ Block Row Distr calculation of APSP took: 53.726035 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 45.444483 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 75.475600 seconds 
+
+ 
+
+ num of procs 20
+************
+ 
+ Block Row Distr calculation of APSP took: 53.967562 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 47.610241 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 46.336070 seconds 
+
+ 
+
+ num of procs 32
+************
+ 
+ Block Row Distr calculation of APSP took: 59.463088 seconds 
+ 
+ Block Row Distr (need to know basis) calculation of APSP took: 45.423138 seconds 
+ 
+ Block Cyclic Distr  calculation of APSP took: 73.703148 seconds 
+
+ 
