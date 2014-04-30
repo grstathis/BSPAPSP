@@ -1,8 +1,6 @@
 BSPASAP
 =======
 
-Parallel All Shortest Path Problem 
+Parallel All Pair Shortest Path Problem  (APSP) in Bulk Syncronous Parallel (BSP) style.
 
-BSP parallel
-
-written in C
+Written in C.
